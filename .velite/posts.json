@@ -1,0 +1,11 @@
+[
+  {
+    "slug": "blog/hello-worl",
+    "title": "Hello World",
+    "description": "This is our first blog post. Really cool",
+    "date": "2024-03-06T00:00:00.000Z",
+    "published": true,
+    "body": "const{Fragment:e,jsx:n,jsxs:t}=arguments[0];function _createMdxContent(o){const c={code:\"code\",h1:\"h1\",p:\"p\",...o.components};return t(e,{children:[n(c.h1,{children:\"Hello World\"}),\"\\n\",t(c.p,{children:[\"Welcome to my blog \",n(c.code,{children:\"inline code\"})]})]})}return{default:function(e={}){const{wrapper:t}=e.components||{};return t?n(t,{...e,children:n(_createMdxContent,{...e})}):_createMdxContent(e)}};",
+    "slugAsParams": "hello-worl"
+  }
+]
